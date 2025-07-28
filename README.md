@@ -2,7 +2,6 @@
 
 - 🔭 Procurando estágio
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
 
 ##
 
